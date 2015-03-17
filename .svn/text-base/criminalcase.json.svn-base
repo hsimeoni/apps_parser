@@ -1,0 +1,4 @@
+[
+{ "_id" : { "$oid" : "53ff8c51159320795b8d7d01" }, "pp" : [ "http://www.prettysimplegames.com/about/privacy-policy/" ], "appaccessed" : "basic_info", "apptype" : "Canvas", "perms" : "basic_info,publish_actions", "tos" : [ "http://www.prettysimplegames.com/about/terms-of-use/" ], "dialogtype" : "appcenter", "landingurl" : "https://www.facebook.com/games/criminalcase/?fbs=-1", "appid" : "148494581941991" },
+{ "_id" : { "$oid" : "526cea3315932067bb152e7d" }, "pp" : "http://www.rovio.com/Privacy", "apptype" : "Facebook", "perms" : [ "email,publish_actions" ], "tos" : "http://www.rovio.com/eula", "dialogtype" : 2, "landingurl" : "https://www.facebook.com/dialog/oauth?client_id=178222352279634&redirect_uri=https%3A%2F%2Fangrybirds-facebook.appspot.com%2Ffbauth%2FauthResponse%2F&scope=email,publish_actions", "appid" : "402664389779077" }
+]
